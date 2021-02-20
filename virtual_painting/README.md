@@ -19,8 +19,10 @@ Don’t worry, just run a run of the virtual_painting.py file, that’s it! Have
 <br>
 <br>
 <p align="center">
-<img src="https://media.giphy.com/media/L2SbVHn9Qbk9lJSXJn/giphy.gif" height="200" width="300" align="center"/>
+<img src="https://media.giphy.com/media/HHyL3TGnkDYtq406Ml/giphy.gif" />
+</p>
 
 
+<p>
 Any feedback in order to improve this small project is welcome 😊️
 </p>
