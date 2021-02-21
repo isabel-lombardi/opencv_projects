@@ -11,7 +11,7 @@ created to associate the study of theory to practice.</i>
 
 <h3>List of Projects:</h3>
 <ul>
-  <li>Virtual Painting</li>
+  <li><a href="https://github.com/isabel-lombardi/opencv_projects/tree/master/virtual_painting"> Virtual Painting </li></a>
   <li>Invisible Cloak</li>
   <li></li>
   <li></li>
