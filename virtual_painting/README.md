@@ -15,7 +15,7 @@ Okay, I’ll show you how it works:
 <h2>How run:</h2>
 <p>
 I guess you’ll be looking forward to trying it. 😂 <br> 
-Don’t worry, just run a run of the virtual_painting.py file, that’s it! Have fun!
+Don’t worry, just run a run of the <a href="https://github.com/isabel-lombardi/opencv_projects/blob/master/virtual_painting/virtual_painting.py"> virtual_painting.py </a> file, that’s it! Have fun!
 <br>
 <br>
 <p align="center">
